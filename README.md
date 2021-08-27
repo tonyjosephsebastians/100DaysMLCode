@@ -24,3 +24,5 @@ Day 11 Natural language processing (BERT model)
 
 Day 12 ANN from scratch
 
+Day 13 CNN and Neural networks from scratch (Python)
+
