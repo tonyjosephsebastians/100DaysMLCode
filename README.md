@@ -26,3 +26,4 @@ Day 12 ANN from scratch
 
 Day 13 CNN and Neural networks from scratch (Python)
 
+Day 14 Text Cassification
